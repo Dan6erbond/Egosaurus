@@ -64,7 +64,7 @@ class Stats():
         lines = self.get_md().splitlines()
         lines = lines[1:len(lines)]
         md = "\n".join(lines)
-        md += "\n^(Generated with Egosaurus)"
+        md += "\n^(Generated with Egosaurus | Get on [GitHub](https://github.com/Dan6erbond/Egosaurus))"
 
         if url != "":
             submission = self.reddit.submission(url=url)
