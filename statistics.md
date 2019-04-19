@@ -4,9 +4,9 @@
 
 134757 Comment Karma | 98833 Link Karma
 
-931 Days Old
+932 Days Old
 
- - [Most upvoted post.](https://wwww.reddit.com//r/needamod/comments/abbisp/udan6erbond_looking_to_become_a_mod_for_any_size/)
+ - [Most upvoted post.](https://wwww.reddit.com//r/FunnyandSad/comments/avqg0r/we_miss_you_dave/)
  - [Most upvoted comment.](/r/tifu/comments/aub7ww/tifu_by_leaving_a_suicide_note_before_running/eh74oa2/)
 
 # Top 15 Subredits by Total Karma gained
@@ -32,9 +32,9 @@
 | Subreddit | Subscribers |
 |-----------|-------------|
 | /r/JealousAsFuck | 2862 |
-| /r/1000daysofpractice | 1102 |
+| /r/1000daysofpractice | 1100 |
 | /r/unfortunateTypos | 62 |
-| /r/IAmVeryJealous | 39 |
+| /r/IAmVeryJealous | 40 |
 | /r/CasualModAbuse | 2 |
 | /r/realbusinessmen | 2 |
 | /r/botsbeingawesome | 1 |
