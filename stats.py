@@ -40,7 +40,7 @@ class Stats():
         markdown += " - [Most upvoted post.](https://wwww.reddit.com/{})\n".format(self.best_submission.permalink)
         markdown += " - [Most upvoted comment.]({})\n\n".format(self.best_comment.permalink)
 
-        markdown += "# Top 15 Subredits by Total Karma gained\n"
+        markdown += "# Top 15 Subreddits by Total Karma gained\n"
         table = "| Subreddit | Comment Karma | Link Karma |\n" \
                 "|-----------|---------------|------------|\n"
         max_subs = min(len(self.popular_subs), 15)
@@ -49,7 +49,7 @@ class Stats():
             table += "| /r/{} | {} | {} |\n".format(sub["sub"], sub["comment"], sub["link"])
         markdown += table + "\n"
 
-        markdown += "# Moderated Subreddits\n"
+        markdown += "# 15 Biggest Moderated Subreddits\n"
         table = "| Subreddit | Subscribers |\n" \
                 "|-----------|-------------|\n"
         max_subs = min(len(self.moderated_subs), 15)
@@ -94,7 +94,7 @@ class Stats():
 
         print("")
 
-        print("Moderated Subreddits:")
+        print("15 Biggest Moderated Subreddits:")
         max_subs = min(len(self.moderated_subs), 15)
         for i in range(0, max_subs):
             sub = self.moderated_subs[i]
